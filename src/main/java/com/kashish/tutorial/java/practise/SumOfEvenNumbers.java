@@ -12,8 +12,7 @@ while(num<5) {
 	sum=sum+num;
 	num++;
 	}
-	else
-		num++;
+
 }
 System.out.print(sum);
 	}
