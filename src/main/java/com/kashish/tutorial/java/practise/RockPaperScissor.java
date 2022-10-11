@@ -16,7 +16,7 @@ Random rd=new Random();
 int computerChoice=rd.nextInt(3);
 
 if(userChoice==computerChoice) {
-	System.out.print("draw");
+	System.out.println("draw");
 	
 }
 else if(userChoice == 0 && computerChoice == 2 || userChoice == 1 && computerChoice == 0
