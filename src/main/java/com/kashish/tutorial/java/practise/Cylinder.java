@@ -1,6 +1,7 @@
 package com.kashish.tutorial.java.practise;
 
-// first method
+// first method 
+
 /* public class Cylinder {
 int radius;
 int height;
@@ -28,12 +29,12 @@ public int getHeight() {
 	
 }
 */
-//second method
+//second method using constructors
 public class Cylinder {
  private int radius;
  private int height;
  
- public Cylinder(int radius,int height) {
+ public Cylinder(int radius,int height) {//constructor
 	 this.radius=radius;
 	 this.height=height;
 	 
