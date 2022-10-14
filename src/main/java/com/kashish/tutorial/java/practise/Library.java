@@ -35,7 +35,7 @@ package com.kashish.tutorial.java.practise;
 		// TODO Auto-generated method stub
       Library l=new Library();
       l.setissueBook("harry potter");
-      System.out.print( l.getissueBook());
+      System.out.print(l.getissueBook());
      
 	}
 
