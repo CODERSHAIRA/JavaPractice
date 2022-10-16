@@ -23,7 +23,6 @@ public  int breadth;
  public int height;
 		public Cuboid(int l,int b,int h){
 			super(l, b);
-			System.out.print("\n");
 			this.length=l;
 			this.breadth=b;
 			this.height=h;
