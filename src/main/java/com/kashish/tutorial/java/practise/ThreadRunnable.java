@@ -4,7 +4,7 @@ package com.kashish.tutorial.java.practise;
 	
 	public void run() {
 		int i=0;
-		while(i<100) {
+		while(true) {
 	System.out.println("I am a thread not a threat");	
 	i++;
 	}
@@ -16,7 +16,7 @@ package com.kashish.tutorial.java.practise;
 	 
 	public void run() {
 		int i=0;
-		while(i<100) {
+		while(true) {
 	
 		System.out.println(" Ok i got it that,i am a thread not a threat");	
 		i++;
