@@ -10,9 +10,8 @@ public class Frequency_Of_An_Array {
     	for(int j=0; j<arr.length; j++) {
     		if(arr[i]==arr[j] && j!=i) 
     			count++;
+
     		
-    			
-    			
     	}
     	System.out.println("Frequency of "+ arr[i]+ "=" + count);
     	}
