@@ -12,9 +12,7 @@ public class SecondSmallestNumber {
     		 arr[i]=arr[j];
     		 arr[j]=n;
     		 }
-    		
     	 }
-    	
      }
      System.out.println(arr[0]+" is the smallest element of an array.");
      System.out.println(arr[1]+" is the second smallest element of an array.");
