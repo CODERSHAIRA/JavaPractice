@@ -10,7 +10,6 @@ public class OfParent extends Parent {
 		// TODO Auto-generated method stub
 		OfParent p=new OfParent();
 		System.out.println(p.parent1);
-		System.out.println(parent2);
 	}
 
 }
